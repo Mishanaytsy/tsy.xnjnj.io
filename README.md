@@ -4,6 +4,7 @@ df
 
 [Ufrom turtle import *
 from itertools import product
+
 def f2 ():
 
     print('x y z w')
@@ -64,7 +65,8 @@ def f12():
 
 
 
-f12()
+
+
 ploading tabl.py…]()
 
 
@@ -88,8 +90,8 @@ ploading tabl.py…]()
 |12| c |
 |13| p |
 |14| p\c |
-|15|  |
-|16|  |
+|15| с |
+|16| с |
 |17|  |
 |18|  |
 |19|  |
